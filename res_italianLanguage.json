@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Ciao",
+      "description": "👋 Sono Davina Griss. Persona fittizia a scopo dimostrativo :) Lavoro con i più recenti framework front-end come Angular, React e Vue. Quello che stai vedendo ora è un template di portfolio da Dorota1997. Se ti piace questo template di portfolio, assicurati di mettere ⭐ al repository per renderlo più riconoscibile per altri utenti. Grazie 💜",
+      "section_name": {
+        "about": "Su di me",
+        "projects": "Progetti",
+        "skills": "Competenze",
+        "experience": "Esperienza"
+      }
+    },
+    "projects": [
+      {
+        "title": "Rifugio per Animali",
+        "startDate": "2020",
+        "description": "L'applicazione più complessa su cui ho avuto l'opportunità di lavorare. Ho imparato molte tecnologie e il mio codice è stato revisionato da un curatore eccezionale. L'applicazione gestisce tutti i processi di adozione e permette di archiviare tutte le prove sull'adozione di animali dal rifugio.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Fotografia",
+        "startDate": "2018",
+        "description": "Progetto personale per un corso universitario. Ero responsabile del testing di un'applicazione che ottimizza le immagini utilizzando algoritmi popolari usati da editor grafici come Pixlr o Adobe Photoshop. Ho ottenuto un voto A :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Visualizzatore 3D",
+        "startDate": "2015",
+        "description": "Una delle prime applicazioni su cui ho lavorato durante il mio stage. Ho dovuto sviluppare l'implementazione front-end per un'app che mostra modelli 3D di edifici famosi. Questo è stato anche il mio primo progetto nel framework Angular. Ho imparato molto!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Sviluppatore Front-End",
+        "years": "10.2019 - presente",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Stagista",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  } 
